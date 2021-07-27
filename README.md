@@ -1,9 +1,10 @@
 # retrospective_template
 + 4Ls
+  + ポジティブ要素が強い振り返り。チームとしてのあこがれを挙げることが特徴
   + https://www.techagilist.com/agile/scrum/liked-learned-lacked-longed-for-sprint-retrospective/
   + Liked: どのようなことが良かったか。プロセス、成果、何かしらのアクション等
   + Learned: チームとして何を学んだか。普段の会話、テスト結果等の新しい発見
-  + Lacked: かけていた事は何か。チームがスムーズに業務できるようにするためのもの
+  + Lacked: かけていた事は何か。チームがスムーズに業務できるようにするためのものは何か
   + Longed for: 次のスプリントゴールのために欲しい技術、スキルは何か
 + 1-to-1
     + 有力情報なし
@@ -26,7 +27,7 @@
     + Sad: 悲しんだこと
     + Glad: うれしかったこと
 + Keep-Add-Less-More
-    + 今チームとして行動していることをベースに考える手法
+    + KPTに似ている。今チームとして行動していることを俯瞰して分析するのにとても良い手法
     + Keep: 今行っていて、これからも継続すべきもの
     + Add: 今行っていなくて、これから追加すべきもの
     + Less: 今行っているが、あまり効果のないもの
@@ -42,6 +43,7 @@
           https://note.com/ryoyaohira/n/nb1cf4424012e
     + Continue: 引き続き行うべきもの
 + Psycological Safety
+    + 心理的安全性を評価し、チームの精神安定に貢献する
     + https://www.predictiveindex.com/blog/how-to-measure-psychological-safety/
     + Psychological Safety Score: 現在の(今スプリントの)心理的安全性  パーセンテージなどで示せると良い
     + What makes it safe: 何が安心感につながったか
