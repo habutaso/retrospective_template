@@ -35,11 +35,11 @@
     + KALMに似ているが、Moreにあたる要素が無い
     + Start: これから始めたいもの
     + Stop: やめるべきもの
-      やめるべきものの考え方として、次のようなものが挙げられる。
-          + 無理なく辞められるもの
-          + 成長につながらないもの
-          + 仕組みやルールのせいで回ってくるもの
-            https://note.com/ryoyaohira/n/nb1cf4424012e
+      やめるべきものの考え方として、次のようなものが挙げられる。  
+        + 無理なく辞められるもの
+        + 成長につながらないもの
+        + 仕組みやルールのせいで回ってくるもの  
+          https://note.com/ryoyaohira/n/nb1cf4424012e
     + Continue: 引き続き行うべきもの
 + Psycological Safety
     + https://www.predictiveindex.com/blog/how-to-measure-psychological-safety/
